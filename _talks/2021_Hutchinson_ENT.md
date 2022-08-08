@@ -8,4 +8,4 @@ date: 2021-09-17
 location: "Virtual"
 ---
 
-Hutchinson, K.A.*, \textbf{Guerra, A.}, Turkdogan, S., Forest, V-A., Hier, M.P., Payne, R.J.
+Hutchinson, K.A.*, Guerra, A., Turkdogan, S., Forest, V-A., Hier, M.P., Payne, R.J.
