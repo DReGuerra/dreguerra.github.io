@@ -20,7 +20,15 @@ Education
 
 Honours and Awards
 ======
-* 
+* NSERC - Canada Graduate Scholarship Doctoral Award (CGS-D)
+* McGill Graduate Research Enhancement Travel 
+* McGill Engineering Doctoral Award
+* McGill Graduate Excellence Fellowship
+* McGill Eugenie Ulmer Lamothe Award
+* McGill Max Stern Fellowship
+* Government of Canada [Recognition Award for Excellent Work in Science](https://drive.google.com/file/d/1xBFU0MbiZjKdkJ1dVCJEls_2EUstb_Wb/view?usp=sharing)
+* Natural Resources Canada Research Affiliate Program (RAP)
+* University of Ottawa Undergraduate Research Opportunity Program (UROP)
 
 Publications
 ======
