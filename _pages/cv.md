@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -26,21 +28,10 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [GoogleScholar](https://scholar.google.com/citations?user=s0fyR20AAAAJ&hl=en&oi=sra)
   
 Talks
 ======
@@ -54,6 +45,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Workshops
 ======
-* Currently signed in to 43 different slack teams
+All workshops are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/)
+
+* Molecular Dynamics workshop introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
+* Java OOP workshop introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
+* Git Version Control workshop to serve as a ramp-up course to working knowledge of git version control concepts, methodologies, and applications
