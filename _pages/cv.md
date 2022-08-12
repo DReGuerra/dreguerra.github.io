@@ -13,21 +13,14 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Chemical Engineering, McGill University, 2023 (expected)
+* M.A.Sc. in Chemical Engineering, University of Ottawa, 2018
+* B.A.Sc. in Chemical Engineering, University of Ottawa, 2016 
+* B.Sc. in Health Sciences with minor in Life Sciences, University of Ottawa, 2012
 
-Work experience
+Honours and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 
 
 Publications
 ======
