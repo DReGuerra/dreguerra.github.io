@@ -13,10 +13,14 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 
 Education
 ======
-* Ph.D in Chemical Engineering, McGill University, 2023 (expected)
-* M.A.Sc. in Chemical Engineering, University of Ottawa, 2018
-* B.A.Sc. in Chemical Engineering, University of Ottawa, 2016 
-* B.Sc. in Health Sciences with minor in Life Sciences, University of Ottawa, 2012
+* Doctorate in Chemical Engineering
+  * McGill University, 2023 (expected)
+* Master in Applied Sciences in Chemical Engineering
+  * University of Ottawa, 2018
+* Bachelor in Applied Sciences in Chemical Engineering
+  * University of Ottawa, 2016 
+* Honours Bachelor in Health Sciences with minor in Life Sciences
+  * University of Ottawa, 2012
 
 Honours and Awards
 ======
@@ -29,6 +33,7 @@ Honours and Awards
 * Government of Canada [Recognition Award for Excellent Work in Science](https://drive.google.com/file/d/1xBFU0MbiZjKdkJ1dVCJEls_2EUstb_Wb/view?usp=sharing)
 * Natural Resources Canada Research Affiliate Program (RAP)
 * University of Ottawa Undergraduate Research Opportunity Program (UROP)
+* University of Ottawa Admission Scholarship
 
 Publications
 ======
@@ -42,7 +47,7 @@ Teaching
   
 Workshops
 ======
-All workshops are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/)
+All workshops are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/). Some are still actively being developed.
 
 * [Molecular Dynamics workshop](https://github.com/DReGuerra/molecular_dynamics_workshop) introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
 * [Java OOP workshop](https://github.com/DReGuerra/java_workshop) introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods

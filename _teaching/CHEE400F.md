@@ -1,7 +1,7 @@
 ---
-title: "CHEE 400 Principles of Energy Conversion"
+title: "CHEE 400 Principles of Energy Conversion (2020-Present)"
 collection: teaching
-type: "Undergraduate lecture"
+type: "Undergraduate course"
 permalink: /teaching/CHEE400F
 venue: "McGill University, Department of Chemical Engineering"
 date: "2020-09-05"

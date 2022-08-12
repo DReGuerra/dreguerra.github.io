@@ -1,7 +1,7 @@
 ---
-title: "CHEE 440 Process Modeling"
+title: "CHEE 440 Process Modeling (2021-Present)"
 collection: teaching
-type: "Undergraduate lecture"
+type: "Undergraduate course"
 permalink: /teaching/CHEE440W
 venue: "McGill University, Department of Chemical Engineering"
 data: "2021-01-05"
