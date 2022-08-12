@@ -13,7 +13,7 @@ Primary instructor: Prof. Alejandro D. Rey
 
 Lecturing
 ======
-* Method of Separation of Variables (Lecture 12, March 15, 2022)
+* Method of Separation of Variables (lecture 12, March 15, 2022)
 * Discrete Modeling Methods and Examples (lecture 14, March 31, 2022)
 
 Teaching Assistant (2021-Present)
