@@ -11,7 +11,7 @@ redirect_from:
 
 My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.pdf)
 
-# Education
+## Education
 * Doctorate in Chemical Engineering
   * McGill University, 2023 (expected)
 * Master in Applied Sciences in Chemical Engineering
@@ -21,7 +21,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * Honours Bachelor in Health Sciences with minor in Life Sciences
   * University of Ottawa, 2012
 
-# Awards and Fellowships
+## Awards and Fellowships
 * NSERC Canada Graduate Scholarship Doctoral Award (CGS-D)
 * McGill Graduate Research Enhancement Travel 
 * McGill Engineering Doctoral Award
@@ -33,15 +33,15 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * University of Ottawa Undergraduate Research Opportunity Program (UROP)
 * University of Ottawa Admission Scholarship
 
-# Publications
-  You can find my publications in my [GoogleScholar](https://scholar.google.com/citations?user=s0fyR20AAAAJ&hl=en&oi=sra) profile.
+## Publications
+  You can find an up-to-date list of my publications in my [GoogleScholar](https://scholar.google.com/citations?user=s0fyR20AAAAJ&hl=en&oi=sra) profile.
   
-# Teaching
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Workshops
+## Workshops
 I have developed workshops on various topics which are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/). Some are still incomplete and actively being developed.
 
 * [Molecular Dynamics](https://github.com/DReGuerra/molecular_dynamics_workshop) workshop introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
