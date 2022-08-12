@@ -8,7 +8,7 @@ date: 2021-10-21
 location: "Montreal, QC"
 ---
 
-Course description: Fossil fuels, renewable and nuclear energy resources and use. Principles of energy conversion and thermodynamic engine cycles. Solar radiation, heat, mechanical, chemical, nuclear, and electrical energy conversion processes.
+Course description: Fossil fuels, renewable and nuclear energy resources and use. Principles of energy conversion and thermodynamic engine cycles. Solar radiation, heat, mechanical, chemical, nuclear, and electrical energy conversion processes. \
 Primary instructor: Prof. Alejandro D. Rey
 
 Chapter 5 (October 21, 2021)
