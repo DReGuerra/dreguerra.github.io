@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CHEE440W
 venue: "McGill University, Department of Chemical Engineering"
-data: "2021-01-05"
+date: "2021-01-05"
 location: "Montreal, QC"
 ---
 
