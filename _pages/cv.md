@@ -22,7 +22,7 @@ Education
 * Honours Bachelor in Health Sciences with minor in Life Sciences
   * University of Ottawa, 2012
 
-Honours and Awards
+Awards and Fellowships
 ======
 * NSERC - Canada Graduate Scholarship Doctoral Award (CGS-D)
 * McGill Graduate Research Enhancement Travel 
