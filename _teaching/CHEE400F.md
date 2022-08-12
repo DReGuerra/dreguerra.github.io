@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate lecture"
 permalink: /teaching/CHEE400F
 venue: "McGill University, Department of Chemical Engineering"
-date: ""
+date: "2020-09-05"
 location: "Montreal, QC"
 ---
 
