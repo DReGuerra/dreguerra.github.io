@@ -11,6 +11,12 @@ location: "Montreal, QC"
 Course description: Fossil fuels, renewable and nuclear energy resources and use. Principles of energy conversion and thermodynamic engine cycles. Solar radiation, heat, mechanical, chemical, nuclear, and electrical energy conversion processes. \
 Primary instructor: Prof. Alejandro D. Rey
 
-Chapter 5 (October 21, 2021)
+Lecturing
 ======
-* Geothermal Energy Systems
+* Geothermal Energy Systems (Chapter 5, October 21, 2021)
+
+Teaching Assistant (2020-Present)
+======
+* Course coordinator
+* Tutorials
+* Proctoring

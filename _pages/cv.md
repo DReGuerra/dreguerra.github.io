@@ -26,12 +26,6 @@ Publications
 ======
   [GoogleScholar](https://scholar.google.com/citations?user=s0fyR20AAAAJ&hl=en&oi=sra)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -42,6 +36,6 @@ Workshops
 ======
 All workshops are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/)
 
-* Molecular Dynamics workshop introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
-* Java OOP workshop introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
-* Git Version Control workshop to serve as a ramp-up course to working knowledge of git version control concepts, methodologies, and applications
+* [Molecular Dynamics workshop](https://github.com/DReGuerra/molecular_dynamics_workshop) introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
+* [Java OOP workshop](https://github.com/DReGuerra/java_workshop) introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
+* [Git Version Control workshop](https://github.com/DReGuerra/git_workshop) to serve as a ramp-up course to working knowledge of git version control concepts, methodologies, and applications

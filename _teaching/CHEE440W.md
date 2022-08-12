@@ -11,10 +11,13 @@ location: "Montreal, QC"
 Course decription: Principles of mathematical modelling in chemical engineering: problem formulation, solution, discrete systems; difference and difference-differential equations, methods of solution;understanding system behaviour, optimization. \
 Primary instructor: Prof. Alejandro D. Rey
 
-Lecture 12 (March 15, 2022)
+Lecturing
 ======
-* Method of Separation of Variables
+* Method of Separation of Variables (Lecture 12, March 15, 2022)
+* Discrete Modeling Methods and Examples (lecture 14, March 31, 2022)
 
-Lecture 14 (March 31, 2022)
+Teaching Assistant (2021-Present)
 ======
-* Discrete Modeling Methods and Examples
+* Course coordinator
+* Tutorials
+* Proctoring
