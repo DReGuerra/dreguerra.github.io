@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://ca.linkedin.com/in/andre-guerra-a6540a8a"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0002-6741-0739"
   pinterest        :
   soundcloud       :
