@@ -28,7 +28,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * McGill Graduate Excellence Fellowship
 * McGill Eugenie Ulmer Lamothe Award
 * McGill Max Stern Fellowship
-* Natural Resources Canada [Excellent Work in Science Award](https://drive.google.com/file/d/1xBFU0MbiZjKdkJ1dVCJEls_2EUstb_Wb/view?usp=sharing)
+* Natural Resources Canada [Recognition Award in Innovation and Energy Technology](https://drive.google.com/file/d/1xBFU0MbiZjKdkJ1dVCJEls_2EUstb_Wb/view?usp=sharing)
 * Natural Resources Canada Research Affiliate Program (RAP)
 * University of Ottawa Undergraduate Research Opportunity Program (UROP)
 * University of Ottawa Admission Scholarship
