@@ -23,7 +23,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 
 ## Awards and Fellowships
 * NSERC Canada Graduate Scholarship Doctoral Award (CGS-D)
-* McGill Graduate Research Enhancement Travel 
+* McGill Graduate Research Enhancement Travel Award
 * McGill Engineering Doctoral Award
 * McGill Graduate Excellence Fellowship
 * McGill Eugenie Ulmer Lamothe Award
