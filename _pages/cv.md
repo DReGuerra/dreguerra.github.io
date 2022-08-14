@@ -37,7 +37,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
   You can find an up-to-date list of my publications in my [GoogleScholar](https://scholar.google.com/citations?user=s0fyR20AAAAJ&hl=en&oi=sra) profile.
   
 ## Teaching
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
