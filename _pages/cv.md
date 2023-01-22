@@ -21,16 +21,20 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * Honours Bachelor in Health Sciences with minor in Life Sciences
   * University of Ottawa, 2012
 
-## Awards and Fellowships
-* NSERC Canada Graduate Scholarship Doctoral Award (CGS-D)
-* McGill Graduate Research Enhancement Travel Award
-* McGill Engineering Doctoral Award
-* McGill Graduate Excellence Fellowship
-* McGill Eugenie Ulmer Lamothe Award
-* McGill Max Stern Fellowship
+## Honours, Awards and Fellowships
+* NSERC Canada Graduate Scholarship Doctoral Award ([CGS-D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp))
+* NSERC Canada Graduate Scholarship Michael Smith Foreign Study Supplement ([MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp))
+* Sigma Xi Grants-in-Aid-of-research ([GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research))
+* McGill Graduate Mobility Award ([GMA](https://www.mcgill.ca/gps/funding/travel/grad-mobility-award))
+* Elected [Full Member](https://drive.google.com/file/d/1MNGupPHflzhdt4U4Ac8uUm1YRg4P4h5B/view?usp=sharing) of Sigma Xi The Scientific Research Honor Society
+* McGill Graduate Research Enhancement Travel Award ([GREAT](https://www.mcgill.ca/gps/funding/fac-staff/awards/great))
+* McGill Engineering Doctoral Award ([MEDA](https://www.mcgill.ca/engineering/students/graduate-students/funding/meda))
+* McGill [Graduate Excellence](https://www.mcgill.ca/engineering/students/graduate-students/funding/gef) Fellowship
+* McGill [Eugenie Ulmer Lamothe](https://www.mcgill.ca/chemeng/grad/funding) Award
+* McGill [Max Stern](https://www.mcgill.ca/internalawards/multidisciplinary) Fellowship
 * Natural Resources Canada [Recognition Award in Innovation and Energy Technology](https://drive.google.com/file/d/1xBFU0MbiZjKdkJ1dVCJEls_2EUstb_Wb/view?usp=sharing)
-* Natural Resources Canada Research Affiliate Program (RAP)
-* University of Ottawa Undergraduate Research Opportunity Program (UROP)
+* Natural Resources Canada Research Affiliate Program ([RAP](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html))
+* University of Ottawa Undergraduate Research Opportunity Program ([UROP](https://www2.uottawa.ca/current-students/career-experiential-learning/centre-research-opportunities/undergraduate-research-opportunity-program))
 * University of Ottawa Admission Scholarship
 
 ## Publications
