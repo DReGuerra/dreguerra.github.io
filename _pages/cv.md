@@ -34,7 +34,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * McGill [Max Stern](https://www.mcgill.ca/internalawards/multidisciplinary) Fellowship
 * Natural Resources Canada [Recognition Award in Innovation and Energy Technology](https://drive.google.com/file/d/1xBFU0MbiZjKdkJ1dVCJEls_2EUstb_Wb/view?usp=sharing)
 * Natural Resources Canada Research Affiliate Program ([RAP](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html))
-* University of Ottawa Undergraduate Research Opportunity Program ([UROP](https://www2.uottawa.ca/current-students/career-experiential-learning/centre-research-opportunities/undergraduate-research-opportunity-program))
+* University of Ottawa Undergraduate Research Opportunity Program ([UROP](https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-research-opportunity-program))
 * University of Ottawa Admission Scholarship
 
 ## Publications
@@ -48,6 +48,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 ## Workshops
 I have developed workshops on various topics which are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/). Some are still incomplete and actively being developed.
 
+* [Financial Engineering](https://github.com/DReGuerra/financial_engineering) workshop introducing key concepts to Financial Engineering like stochastic models for stock and options pricing
 * [Molecular Dynamics](https://github.com/DReGuerra/molecular_dynamics_workshop) workshop introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
 * [Java OOP](https://github.com/DReGuerra/java_workshop) workshop introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
 * [Scientific Python](https://github.com/DReGuerra/scientific_python_workshop) workshop with information introducing key concepts to Python programming language applications in scientific research
