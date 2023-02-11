@@ -12,6 +12,9 @@ location: "Montreal, QC"
 <b>Primary instructor:</b> Prof. Dr. Alejandro D. Rey
 
 # Lecturing
+* Photovoltaics (Chapter 8, November 15, 2022)
+* Wind Power (Chapter 7, October 27, 2022)
+* Thermal-Chemical Energy (Chapter 2, September 7, 2022)
 * Geothermal Energy Systems (Chapter 5, October 21, 2021)
 
 # Teaching Assistant (2020-Present)

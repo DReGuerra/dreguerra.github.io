@@ -12,8 +12,10 @@ location: "Montreal, QC"
 <b>Primary instructor:</b> Prof. Dr. Alejandro D. Rey
 
 # Lecturing
-* Method of Separation of Variables (lecture 12, March 15, 2022)
-* Discrete Modeling Methods and Examples (lecture 14, March 31, 2022)
+* Method of Characteristics (Lecture 10, March 7, 2023)
+* Method of Moments Polynomial Approximation (Lecture 8, February 6, 2023)
+* Discrete Modeling Methods and Examples (Lecture 14, March 31, 2022)
+* Method of Orthogonal Separation (Lecture 12, March 15, 2022)
 
 # Teaching Assistant (2021-Present)
 * Course coordinator
