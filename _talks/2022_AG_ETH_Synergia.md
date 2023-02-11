@@ -8,4 +8,6 @@ date: 2022-08-05
 location: "Montreal, QC"
 ---
 
-Andre Guerra*, Samuel Mathews.
+Andre Guerra*, Samuel Mathews*.
+
+(*oral presentation)
