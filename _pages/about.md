@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website. This is a work-in-progress. It will be continuously updated in the near future.
+This is my personal website. You can navigate the tabs at the top for more information. This is a work-in-progress. It will be continuously updated in the near future.
