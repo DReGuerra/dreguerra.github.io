@@ -15,15 +15,20 @@ Generally, I am interested in the various scales of physical and chemical phenom
 <br>
 Below is a representation of some samples of my research and where they are located in the spectrum of length and time scales.<br>
 <br>
-![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum.png "AG research overlaid on the time-length spectrum")
+![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum_border.png "AG research overlaid on the time-length spectrum")<br>
+Figure 1. AG's research overlaid on the length-time spectrum.
 
 ## Future Research
 ### Biological Liquid Crystals
 <b>Biopolymers</b> are derived from biological material subunits. Cellulose (polysaccharide), collagen (triple-helix of amino acids), and lignin (lignols) are important biopolymers that have multiple material engineering applications. <b>Amyloid fibrils</b> are formed from soluble proteins that aggregate/crosslink to form insoluble fibers. These fibers are resistant to degradation and when in colloid suspensions demonstrate liquid crystal characteristics. <b>Colloidal liquid crystals</b> (LC) are a type of material that experiences phase ordering transitions with increased concentration or from an imposed field (e.g., flow, magnetic) giving rise to a mesophase with a certain degree of orientational and positional order. This mesophase can also be sustained while the external field is present or permanently from changes in concentration (e.g., evaporation). These materials have applications in various fields such as biomedical (e.g., biomaterial scaffolds) or biomimetic materials (e.g., mussel byssus collagen-based attachment threads). The fundamental principles behind these materials can form the basis for a computational biomimetic platform. Additionally, much of the phenomena governing the formation and behaviour of the mesophase remain to be characterized and fully described. This makes for a rich research field to be explored.
 
 ### Sonochemistry of Complex Fluids
-Longitudinal propagating acoustic waves in liquids lead to oscillatory behaviour that may nucleate bubbles during rarefaction[1,2]. The threshold radius for bubble nucleation has been proposed by Crum[3]. Bubble dynamics can be described by classic theoretical models like the Rayleigh-Plesset equation[4–9]. The oscillating bubbles can become unstable and collapse causing high temperatures (5000 ℃) and pressure (2000 atm) local to the bubble collapse. These high energy conditions are known to cause physical and chemical changes to the cavitating liquid such as the cleaving of bonds.
-This discipline has applications in multiple engineering systems, for example, viscosity reduction in petroleum fluids in the oil and gas industry, and chemical processing of soft matter like polymers, food, and pharmaceuticals processing[10,11–14].
+Longitudinal propagating acoustic waves in liquids lead to oscillatory behaviour that may nucleate bubbles during rarefaction (acoustic cavitation)[1,2]. The threshold radius for bubble nucleation has been proposed by Crum[3]. Bubble dynamics can be described by classic theoretical models like the Rayleigh-Plesset equation[4–9]. The oscillating bubbles can become unstable and collapse causing high temperatures (5000 ℃) and pressure (2000 atm) local to the bubble collapse. These high energy conditions are known to cause physical and chemical changes to the cavitating liquid such as the cleaving of bonds.<br>
+This discipline has applications in multiple engineering systems, for example, viscosity reduction in petroleum fluids in the oil and gas industry, and chemical processing of soft matter like polymers, food, and pharmaceuticals processing[10,11–14].<br>
+
+![Acoustic cavitation](../images/acoustic_cavitation.png "Acoustic cavitation and bubble dyanamics")<br>
+Figure 2. Representation of acoustic cavitation, bubble dynamics, and bubble implosion[].<br>
+
 
 ### References
 1. 	Leighton T. The Acoustic Bubble. Elsevier Science; 2012.
@@ -40,3 +45,4 @@ This discipline has applications in multiple engineering systems, for example, v
 12. 	Natarajan S, Ponnusamy V. A review on the applications of ultrasound in food processing. Materials Today: Proceedings. 2020. doi:10.1016/J.MATPR.2020.09.516
 13. 	Hussain MN, Jordens J, John JJ, Braeken L, Van Gerven T. Enhancing pharmaceutical crystallization in a flow crystallizer with ultrasound: Anti-solvent crystallization. Ultrason Sonochem. 2019;59: 104743.
 14. 	Sarode C, Jagtap Y, Gogate P. Ultrasound for Improved Encapsulation and Crystallization with Focus on Pharmaceutical Applications. Springer Optim Appl. 2022;189: 193–229.
+15.   Izadifar, Z., Babyn, P., and Chapman, D. Ultrasound Cavitation/Microbubble Detection and Medical Applications. Journal of Medical and Biological Engineering, 39, 259–276 (2019).
