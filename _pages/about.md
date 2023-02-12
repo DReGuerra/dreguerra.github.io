@@ -15,8 +15,8 @@ Generally, I am interested in the various scales of physical and chemical phenom
 <br>
 Below is a representation of some samples of my research and where they are located in the spectrum of length and time scales.<br>
 <br>
-![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum_border.png "AG research overlaid on the time-length spectrum")<br>
-Figure 1. AG's research overlaid on the length-time spectrum.
+![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum.png "AG research overlaid on the time-length spectrum")<br>
+<b>Figure 1.</b> AG's research overlaid on the length-time spectrum.
 
 ## Future Research
 ### Biological Liquid Crystals
@@ -27,7 +27,7 @@ Longitudinal propagating acoustic waves in liquids lead to oscillatory behaviour
 This discipline has applications in multiple engineering systems, for example, viscosity reduction in petroleum fluids in the oil and gas industry, and chemical processing of soft matter like polymers, food, and pharmaceuticals processing[10,11–14].<br>
 
 ![Acoustic cavitation](../images/acoustic_cavitation.png "Acoustic cavitation and bubble dyanamics")<br>
-Figure 2. Representation of acoustic cavitation, bubble dynamics, and bubble implosion[].<br>
+<b>Figure 2.</b> Representation of acoustic cavitation, bubble dynamics, and bubble implosion[15].<br>
 
 
 ### References
