@@ -38,7 +38,7 @@ Longitudinal propagating acoustic waves in liquids lead to oscillatory behaviour
 The application of molecular dynamics simulations can be used to investigate nanoscale phenomena during cavitation. The nucleation of bubbles and the dynamics of bubble oscillations that intensify and lead to the violent collapse of the bubble on itself remains largely undescribed for various complex fluids. I would like to explore the applicability of the classical nucleation and bubble dynamics theories above to complex fluids like petroleum liquids or biological liquid crystals, which are systems that may be processed via acoustic cavitation.<br>
 
 ![Acoustic cavitation](../images/acoustic_cavitation.png "Acoustic cavitation and bubble dyanamics")<br>
-<b>Figure 2.</b> Representation of acoustic cavitation, bubble dynamics, and bubble implosion[14].<br>
+<b>Figure 2.</b> Representation of acoustic cavitation, bubble dynamics, and bubble implosion[23].<br>
 
 
 ### References
@@ -64,3 +64,4 @@ The application of molecular dynamics simulations can be used to investigate nan
 20. Kang SP, Lee H. Recovery of CO2 from flue gas using gas hydrate: Thermodynamic verification through phase equilibrium measurements. Environmental Science and Technology. 2000;34: 4397–4400.
 21. Hussain MN, Jordens J, John JJ, Braeken L, Van Gerven T. Enhancing pharmaceutical crystallization in a flow crystallizer with ultrasound: Anti-solvent crystallization. Ultrason Sonochem. 2019;59: 104743.
 22. Sarode C, Jagtap Y, Gogate P. Ultrasound for Improved Encapsulation and Crystallization with Focus on Pharmaceutical Applications. Springer Optim Appl. 2022;189: 193–229.
+23. Vyas N, Manmi K, Wang Q, Jadhav AJ, Barigou M, Sammons RL, et al. Which Parameters Affect Biofilm Removal with Acoustic Cavitation? A Review. Ultrasound Med Biol. 2019;45: 1044–1055.
