@@ -12,6 +12,12 @@ This is my personal website. You can navigate the tabs at the top for more infor
 
 ## Research Interests
 Generally, I am interested in exploring the various scales of physical and chemical phenomena. Particularly, the description of macroscopic scale phenomena using the various scales of computational and experimental techniques available. This research generates fundamental knowledge about the phenomena of interest which is essential for material characterizations and engineering applications.<br>
+
+Below is a representation of some samples of my research and where they are located in the spectrum of length and time scales.<br>
+<br>
+![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum.png "AG research overlaid on the time-length spectrum")<br>
+<b>Figure 1.</b> Samples of AG's research overlaid on the length-time spectrum.
+
 ## Previous and Current Research
 ### Upgrading of Petroleum Fluids
 I conducted research regarding the upgrading of heavy crudes (viscosity reduction) through thermal processing. In this work, I developed a mild thermal cracking reaction model that incorporated vapour-liquid equilibrium (VLE) calculations for improved performance over previously available models[1]. This work also has applications in the modelling of the VLE and reactive behaviour of crude transport train cars exposed to a fire in the event of a derailment or other accident. This may be used to improve the design of safety features of crude transport cars.
@@ -22,11 +28,6 @@ I conducted rheology work to characterize the dynamic viscosity of methane and c
 I have developed molecular simulations to predict the dynamic viscosity of methane[6] and carbon dioxide[7] hydrates. These works evaluated the performance of the computational models developed by direct comparison to experimental data collected from our rheology experimental work described above. Hydrogen bond analyses were conducted to determine possible sources of the discrepancies demonstrated between computational prediction and the experimental data.
 ### Nucleation and Crystal Growth
 Nucleation in the absence of a solid-liquid interface can be studied through the acoustic levitation of liquid droplets. I have investigated the nucleation of pure water[8] and tetrahydrofuran (THF) hydrates[9] through this approach. These works investigated and observed the crystallization, morphology, nucleation type categorization, and melting behaviour of pure water and THF hydrates.
-
-Below is a representation of some samples of my research and where they are located in the spectrum of length and time scales.<br>
-<br>
-![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum.png "AG research overlaid on the time-length spectrum")<br>
-<b>Figure 1.</b> Samples of AG's research overlaid on the length-time spectrum.
 
 ## Future Research
 ### Biological Liquid Crystals
