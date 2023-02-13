@@ -41,7 +41,7 @@ The application of molecular dynamics simulations can be used to investigate nan
 <b>Figure 2.</b> Representation of acoustic cavitation, bubble dynamics, and bubble implosion[23].<br>
 
 
-### References
+## References
 1. 	Guerra A, Symonds R, Bryson S, Kirney C. Five-lump mild thermal cracking reaction model of crude oils and bitumen with VLE calculations. Industrial &. 2019. Available: https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02719
 2. 	Guerra A, McElligott A, Du CY, Marić M, Rey AD, Servio P. Dynamic viscosity of methane and carbon dioxide hydrate systems from pure water at high-pressure driving forces. Chem Eng Sci. 2022;252: 117282.
 3. 	McElligott A, Guerra A, Du CY, Rey AD, Meunier J-L, Servio P. Dynamic viscosity of methane hydrate systems from non-Einsteinian, plasma-functionalized carbon nanotube nanofluids. Nanoscale. 7 2022;14: 10211–10225.
