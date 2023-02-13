@@ -11,38 +11,55 @@ redirect_from:
 This is my personal website. You can navigate the tabs at the top for more information. This is a work-in-progress. It will be continuously updated in the near future.
 
 ## Research Interests
-Generally, I am interested in the various scales of physical and chemical phenomena. Particularly, the description of macroscopic scale phenomena using the various scales of computational and experimental techniques available. This research generates fundamental knowledge about the phenomena of interest which is essential for material sciences characterizations and engineering applications.<br>
-<br>
+Generally, I am interested in exploring the various scales of physical and chemical phenomena. Particularly, the description of macroscopic scale phenomena using the various scales of computational and experimental techniques available. This research generates fundamental knowledge about the phenomena of interest which is essential for material characterizations and engineering applications.<br>
+## Previous and Current Research
+### Upgrading of Petroleum Fluids
+I conducted research regarding the upgrading of heavy crudes (viscosity reduction) through thermal processing. In this work, I developed a mild thermal cracking reaction model that incorporated vapour-liquid equilibrium (VLE) calculations for improved performance over previously available models[1]. This work also has applications in the modelling of the VLE and reactive behaviour of crude transport train cars exposed to a fire in the event of a derailment or other accident. This may be used to improve the design of safety features of crude transport cars.
+### Gas Hydrates
+#### Rheology
+I conducted rheology work to characterize the dynamic viscosity of methane and carbon dioxide hydrates at high-pressure driving forces in pure water systems[2]. This work was used as a baseline reference for extended rheology work on nanofluid-promoted methane hydrate systems[3,4] and polymer-inhibited methane hydrate systems[5].
+#### Molecular Simulations
+I have developed molecular simulations to predict the dynamic viscosity of methane[6] and carbon dioxide[7] hydrates. These works evaluated the performance of the computational models developed by direct comparison to experimental data collected from our rheology experimental work described above. Hydrogen bond analyses were conducted to determine possible sources of the discrepancies demonstrated between computational prediction and the experimental data.
+### Nucleation and Crystal Growth
+Nucleation in the absence of a solid-liquid interface can be studied through the acoustic levitation of liquid droplets. I have investigated the nucleation of pure water[8] and tetrahydrofuran (THF) hydrates[9] through this approach. These works investigated and observed the crystallization, morphology, nucleation type categorization, and melting behaviour of pure water and THF hydrates.
+
 Below is a representation of some samples of my research and where they are located in the spectrum of length and time scales.<br>
 <br>
 ![AG-length-time-scales-spectrum](../images/AG-length-time-scales-spectrum.png "AG research overlaid on the time-length spectrum")<br>
-<b>Figure 1.</b> AG's research overlaid on the length-time spectrum.
+<b>Figure 1.</b> Samples of AG's research overlaid on the length-time spectrum.
 
 ## Future Research
 ### Biological Liquid Crystals
 <b>Biopolymers</b> are derived from biological material subunits. Cellulose (polysaccharide), collagen (triple-helix of amino acids), and lignin (lignols) are important biopolymers that have multiple material engineering applications. <b>Amyloid fibrils</b> are formed from soluble proteins that aggregate/crosslink to form insoluble fibers. These fibers are resistant to degradation and when in colloid suspensions demonstrate liquid crystal characteristics. <b>Colloidal liquid crystals</b> (LC) are a type of material that experiences phase ordering transitions with increased concentration or from an imposed field (e.g., flow, magnetic) giving rise to a mesophase with a certain degree of orientational and positional order. This mesophase can also be sustained while the external field is present or permanently from changes in concentration (e.g., evaporation). These materials have applications in various fields such as biomedical (e.g., biomaterial scaffolds) or biomimetic materials (e.g., mussel byssus collagen-based attachment threads). The fundamental principles behind these materials can form the basis for a computational biomimetic platform. Additionally, much of the phenomena governing the formation and behaviour of the mesophase remain to be characterized and fully described. This makes for a rich research field to be explored.
 
 ### Sonochemistry of Complex Fluids
-Longitudinal propagating acoustic waves in liquids lead to oscillatory behaviour that may nucleate bubbles during rarefaction (acoustic cavitation)[1,2]. The threshold radius for bubble nucleation has been proposed by Crum[3]. Bubble dynamics can be described by classic theoretical models like the Rayleigh-Plesset equation[4–9]. The oscillating bubbles can become unstable and collapse causing high temperatures (5000 ℃) and pressure (2000 atm) local to the bubble collapse. These high energy conditions are known to cause physical and chemical changes to the cavitating liquid such as the cleaving of bonds.<br>
-This discipline has applications in multiple engineering systems, for example, viscosity reduction in petroleum fluids in the oil and gas industry, and chemical processing of soft matter like polymers, food, and pharmaceuticals processing[10,11–14].<br>
+Longitudinal propagating acoustic waves in liquids lead to oscillatory behaviour that may nucleate bubbles during rarefaction (<b>acoustic cavitation</b>)[10,11]. The threshold radius for bubble nucleation has been proposed by Crum[12]. Bubble dynamics can be described by classic theoretical models like the Rayleigh-Plesset equation[13–18]. The oscillating bubbles can become unstable and collapse causing high temperatures (5000 ℃) and pressure (2000 atm) local to the bubble collapse. These high energy conditions are known to cause physical and chemical changes to the cavitating liquid such as the cleaving of bonds. This discipline has applications in multiple engineering systems, for example, <b>viscosity reduction</b> in petroleum fluids in the oil and gas industry, and <b>chemical processing</b> of soft matter like polymers, food, and pharmaceuticals processing[19–22].<br>
+The application of molecular dynamics simulations can be used to investigate nanoscale phenomena during cavitation. The nucleation of bubbles and the dynamics of bubble oscillations that intensify and lead to the violent collapse of the bubble on itself remains largely undescribed for various complex fluids. I would like to explore the applicability of the classical nucleation and bubble dynamics theories above to complex fluids like petroleum liquids or biological liquid crystals, which are systems that may be processed via acoustic cavitation.<br>
 
 ![Acoustic cavitation](../images/acoustic_cavitation.png "Acoustic cavitation and bubble dyanamics")<br>
-<b>Figure 2.</b> Representation of acoustic cavitation, bubble dynamics, and bubble implosion[15].<br>
+<b>Figure 2.</b> Representation of acoustic cavitation, bubble dynamics, and bubble implosion[14].<br>
 
 
 ### References
-1. 	Leighton T. The Acoustic Bubble. Elsevier Science; 2012.
-2. 	Mason TJ, Lorimer JP. Applied Sonochemistry. Applied Sonochemistry. 4 2002. doi:10.1002/352760054X
-3. 	Crum LA. ACOUSTIC CAVITATION. Ultrasonics Symposium Proceedings. 1982;1: 1–11.
-4. 	Dzubiella J. Interface dynamics of microscopic cavities in water. J Chem Phys. 2007;126: 194504.
-5. 	Dzubiella J, Swanson JMJ, McCammon JA. Coupling hydrophobicity, dispersion, and electrostatics in continuum solvent models. Phys Rev Lett. 3 2006;96: 087802.
-6. 	F.r.s. LROM. VIII. On the pressure developed in a liquid during the collapse of a spherical cavity. https://doi. org/10. 1080/14786440808635681. Taylor & Francis Group; 8 2009. pp. 94–98. doi:10.1080/14786440808635681
-7. 	Plesset MS, Pasadena C. The dynamics of cavitation bubbles. J Appl Mech. 1949. Available: https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/16/3/277/1106337
-8. 	Noltingk BE, Neppiras EA. Cavitation produced by ultrasonics. Proceedings of the Physical Society Section B. 1950;63: 674–685.
-9. 	Neppiras EA, Noltingk BE. Cavitation Produced by Ultrasonics: Theoretical Conditions for the Onset of Cavitation. Proceedings of the Physical Society Section B. 12 1951;64: 1032.
-10. 	Kang SP, Lee H. Recovery of CO2 from flue gas using gas hydrate: Thermodynamic verification through phase equilibrium measurements. Environmental Science and Technology. 2000;34: 4397–4400.
-11. 	Kentish S, Feng H, Others. Applications of power ultrasound in food processing. Annu Rev Food Sci Technol. 2014;5: 263–284.
-12. 	Natarajan S, Ponnusamy V. A review on the applications of ultrasound in food processing. Materials Today: Proceedings. 2020. doi:10.1016/J.MATPR.2020.09.516
-13. 	Hussain MN, Jordens J, John JJ, Braeken L, Van Gerven T. Enhancing pharmaceutical crystallization in a flow crystallizer with ultrasound: Anti-solvent crystallization. Ultrason Sonochem. 2019;59: 104743.
-14. 	Sarode C, Jagtap Y, Gogate P. Ultrasound for Improved Encapsulation and Crystallization with Focus on Pharmaceutical Applications. Springer Optim Appl. 2022;189: 193–229.
-15.   Izadifar, Z., Babyn, P., and Chapman, D. Ultrasound Cavitation/Microbubble Detection and Medical Applications. Journal of Medical and Biological Engineering, 39, 259–276 (2019).
+1. 	Guerra A, Symonds R, Bryson S, Kirney C. Five-lump mild thermal cracking reaction model of crude oils and bitumen with VLE calculations. Industrial &. 2019. Available: https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02719
+2. 	Guerra A, McElligott A, Du CY, Marić M, Rey AD, Servio P. Dynamic viscosity of methane and carbon dioxide hydrate systems from pure water at high-pressure driving forces. Chem Eng Sci. 2022;252: 117282.
+3. 	McElligott A, Guerra A, Du CY, Rey AD, Meunier J-L, Servio P. Dynamic viscosity of methane hydrate systems from non-Einsteinian, plasma-functionalized carbon nanotube nanofluids. Nanoscale. 7 2022;14: 10211–10225.
+4. 	McElligott A, Guerra A, Du CY, Rey AD, Meunier J-L, Servio P. Non-Einsteinian Viscosity Behavior in Plasma-Functionalized Graphene Nanoflake Nanofluids and Their Effect on the Dynamic Viscosity of Methane Hydrate Systems. ACS Appl Energy Mater. 2022. doi:10.1021/acsaem.2c02571
+5. 	Du CY, Guerra A, McElligott A, Marić M, Rey A, Servio P. Effects of Poly(vinylpyrrolidone) on the Dynamic Viscosity of Methane Hydrate Systems at High-Pressure Driving Forces: Investigation of Concentration, Molecular Weight, and Shear Rate. Energy Fuels. 2022;36: 14163–14173.
+6. 	Guerra A, Mathews S, Marić M, Servio P, Rey AD. All-atom molecular dynamics of pure water-methane gas hydrate systems under pre-nucleation conditions: A direct comparison between experiments and simulations of transport properties for the Tip4p/Ice water model. Molecules. 2022;27. doi:10.3390/molecules27155019
+7. 	Guerra A, Mathews S, Su JT, Marić M, Servio P. Molecular dynamics predictions of transport properties for carbon dioxide hydrates under pre-nucleation conditions using TIP4P/Ice water and EPM2, TraPPE, and …. arXiv preprint arXiv. 2023. Available: https://arxiv.org/abs/2301.01757
+8. 	McElligott A, Guerra A, Wood MJ, Rey AD, Kietzig A-M, Servio P. TinyLev acoustically levitated water: Direct observation of collective, inter-droplet effects through morphological and thermal analysis of multiple droplets. J Colloid Interface Sci. 2022;619: 84–95.
+9. 	McElligott A, Guerra A, Denoncourt A, Rey AD, Servio P. Interfacial Effects during Phase Change in Multiple Levitated Tetrahydrofuran Hydrate Droplets. Langmuir. 2023;39: 1573–1584.
+10. Leighton T. The Acoustic Bubble. Elsevier Science; 2012.
+11. Mason TJ, Lorimer JP. Applied Sonochemistry. Applied Sonochemistry. 4 2002. doi:10.1002/352760054X
+12. Crum LA. ACOUSTIC CAVITATION. Ultrasonics Symposium Proceedings. 1982;1: 1–11.
+13. Dzubiella J. Interface dynamics of microscopic cavities in water. J Chem Phys. 2007;126: 194504.
+14. Dzubiella J, Swanson JMJ, McCammon JA. Coupling hydrophobicity, dispersion, and electrostatics in continuum solvent models. Phys Rev Lett. 3 2006;96: 087802.
+15. F.r.s. LROM. VIII. On the pressure developed in a liquid during the collapse of a spherical cavity. https://doi. org/10. 1080/14786440808635681. Taylor & Francis Group; 8 2009. pp. 94–98. doi:10.1080/14786440808635681
+16. Plesset MS, Pasadena C. The dynamics of cavitation bubbles. J Appl Mech. 1949. Available: https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/16/3/277/1106337
+17. Noltingk BE, Neppiras EA. Cavitation produced by ultrasonics. Proceedings of the Physical Society Section B. 1950;63: 674–685.
+18. Neppiras EA, Noltingk BE. Cavitation Produced by Ultrasonics: Theoretical Conditions for the Onset of Cavitation. Proceedings of the Physical Society Section B. 12 1951;64: 1032.
+19. Kentish S, Feng H, Others. Applications of power ultrasound in food processing. Annu Rev Food Sci Technol. 2014;5: 263–284.
+20. Kang SP, Lee H. Recovery of CO2 from flue gas using gas hydrate: Thermodynamic verification through phase equilibrium measurements. Environmental Science and Technology. 2000;34: 4397–4400.
+21. Hussain MN, Jordens J, John JJ, Braeken L, Van Gerven T. Enhancing pharmaceutical crystallization in a flow crystallizer with ultrasound: Anti-solvent crystallization. Ultrason Sonochem. 2019;59: 104743.
+22. Sarode C, Jagtap Y, Gogate P. Ultrasound for Improved Encapsulation and Crystallization with Focus on Pharmaceutical Applications. Springer Optim Appl. 2022;189: 193–229.
