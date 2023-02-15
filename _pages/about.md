@@ -42,14 +42,15 @@ I have developed molecular simulations to predict the dynamic viscosity of metha
 <b>Figure 4.</b> Equilibration of a water system simulated using LAMMPS (Molecules 27 (15), 5019).
 
 ### Nucleation and Crystal Growth
-Nucleation in the absence of a solid-liquid interface can be studied through the acoustic levitation of liquid droplets. I have investigated the nucleation of pure water[9] and tetrahydrofuran (THF) hydrates[10] through this approach. These works investigated and observed the crystallization, morphology, nucleation type categorization, and melting behaviour of pure water and THF hydrates. The acoustic levitation technique has interesting potential applications for the research of multi-phase systems by eliminating the solid-liquid interface.<br>
-<br>
-![AG-tinylev-graphical-abstract](../images/AG_tinylev_graphical_abstract.jpg "Journal of Colloid and Interface Science 619, 84-95")<br>
-<b>Figure 5.</b> Graphical abstract of the pure water ultrasound levitated nucleation studies conducted in: Journal of Colloid and Interface Science 619, 84-95.
-<br>
+Nucleation in the absence of a solid-liquid interface can be studied through the acoustic levitation of liquid droplets (Figure 5). I have investigated the nucleation of pure water[9] and tetrahydrofuran (THF) hydrates[10] through this approach. These works investigated and observed the crystallization, morphology, nucleation type categorization, and melting behaviour of pure water and THF hydrates (Figure 6). The acoustic levitation technique has interesting potential applications for the research of multi-phase systems by eliminating the solid-liquid interface.<br>
 <br>
 ![AG-tinylev-diagram](../images/AG_tinylev_diagram.jpg "Journal of Colloid and Interface Science 619, 84-95")<br>
-<b>Figure 6.</b> Experimental setup used to conduct ultrasound levitation of water droplets for nucleation studies in: Journal of Colloid and Interface Science 619, 84-95.
+<b>Figure 5.</b> Experimental setup used to conduct ultrasound levitation of water droplets for nucleation studies in: Journal of Colloid and Interface Science 619, 84-95.
+<br>
+<br>
+![AG-tinylev-graphical-abstract](../images/AG_tinylev_graphical_abstract.jpg "Journal of Colloid and Interface Science 619, 84-95")<br>
+<b>Figure 6.</b> Graphical abstract of the pure water ultrasound levitated nucleation studies conducted in: Journal of Colloid and Interface Science 619, 84-95.
+<br>
 
 ## Future Research
 ### Biological Liquid Crystals
