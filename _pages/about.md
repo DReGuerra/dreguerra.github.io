@@ -21,15 +21,35 @@ Below is a representation of samples of my research and where they are located i
 ## Previous and Current Research
 ### Upgrading of Petroleum Fluids
 Heavy crude oils is made up of complex mixtures of long-chain, aromatic, saturated and unsaturated hydrocarbons. Its composition results in a high shear viscosity which poses multiple engineering problems in these crudes' extraction, transport, and processing/refining. One remediation method to “upgrade” heavy viscous crudes is to implement thermal processing. Mild thermal cracking of heavy (long) hydrocarbon chains occurs between 350-425C. These reactions potentiate the cleavage of C-C bonds in long hydrocarbon chains thereby reducing the overall average molecular weight and viscosity of the mixture.
-I have researched the viscosity reduction of heavy crudes and bitumen through thermal processing[1]. The work involved an experimental program that collected reaction data in a pilot plant thermal upgrader at CanmetENERGY-Ottawa. I developed a mild thermal cracking reaction model that incorporated vapour-liquid equilibrium (VLE) calculations and used the experimental data collected to determine reaction kinetics and produce improved performance over previously available models[2]. This work also has applications in modelling the VLE and reactive behaviour of crude transport train cars exposed to a fire in the event of a derailment or other accident. This may be used to improve the design of safety features of crude transport cars.
+I have researched the viscosity reduction of heavy crudes and bitumen through thermal processing[1]. The work involved an experimental program that collected reaction data in a pilot plant thermal upgrader at CanmetENERGY-Ottawa. I developed a mild thermal cracking reaction model that incorporated vapour-liquid equilibrium (VLE) calculations and used the experimental data collected to determine reaction kinetics and produce improved performance over previously available models[2]. This work also has applications in modelling the VLE and reactive behaviour of crude transport train cars exposed to a fire in the event of a derailment or other accident. This may be used to improve the design of safety features of crude transport cars.<br>
+<br>
+![AG-lighter-grey-model](../images/AG_lighter-grey_model_diagram.jpeg "Ind. Eng. Chem. Res. 2019, 58, 36, 16417–16430")<br>
+<b>Figure 2.</b> Mild thermal cracking reaction model involving VLE calculations (Ind. Eng. Chem. Res. 2019, 58, 36, 16417–16430).
+
 ### Gas Hydrates
 Gas hydrates are a type of inclusion compound that forms under high pressures and low temperatures. Under these conditions, if a gas species is dissolved in water the gas hydrate structure is thermodynamically favoured over that of hexagonal ice. As the water molecules in the liquid phase begin the phase transition to the solid structure, the gas species become trapped in cages that form within the gas hydrate structure. Historically, gas hydrates have been a strong research interest in the oil and gas industry due to their occurrence of transport lines and drill well lines. This gave rise to the flow assurance engineering discipline. Recently, research interest in gas hydrates has expanded to engineering technologies that utilize the physical properties of gas hydrates to accomplish various processes including gas separation, transport, and storage. These may include carbon capture and storage and energy storage applications.
+
 #### Rheology
-I conducted rheology work to characterize the dynamic viscosity of methane and carbon dioxide hydrates at high-pressure driving forces in pure water systems[3]. This work was used as a baseline reference for extended rheology work on nanofluid-promoted methane hydrate systems[4,5] and polymer-inhibited methane hydrate systems[6].
+I conducted rheology work to characterize the dynamic viscosity of methane and carbon dioxide hydrates at high-pressure driving forces in pure water systems[3]. This work was used as a baseline reference for extended rheology work on nanofluid-promoted methane hydrate systems[4,5] and polymer-inhibited methane hydrate systems[6].<br>
+<br>
+![AG-ch4-rheological-phase-diagram](../images/AG_ch4_rheological_phase_diagram.png "Chemical Engineering Science 252, 117282")<br>
+<b>Figure 3.</b> Rheological phase diagram for methane hydrates (Chemical Engineering Science 252, 117282).
+
 #### Molecular Simulations
-I have developed molecular simulations to predict the dynamic viscosity of methane[7] and carbon dioxide[8] hydrates. These works evaluated the performance of the computational models developed by direct comparison to experimental data collected from our experimental rheology work described above. Hydrogen bond analyses were conducted to determine possible sources of the discrepancies demonstrated between computational prediction and the experimental data.
+I have developed molecular simulations to predict the dynamic viscosity of methane[7] and carbon dioxide[8] hydrates. These works evaluated the performance of the computational models developed by direct comparison to experimental data collected from our experimental rheology work described above. Hydrogen bond analyses were conducted to determine possible sources of the discrepancies demonstrated between computational prediction and the experimental data.<br>
+<br>
+![AG-tinylev-graphical-abstract](../images/AG_molecules-27-05019-equilibration.png "Molecules 27 (15), 5019")<br>
+<b>Figure 4.</b> Equilibration of a water system simulated using LAMMPS (Molecules 27 (15), 5019).
+
 ### Nucleation and Crystal Growth
-Nucleation in the absence of a solid-liquid interface can be studied through the acoustic levitation of liquid droplets. I have investigated the nucleation of pure water[9] and tetrahydrofuran (THF) hydrates[10] through this approach. These works investigated and observed the crystallization, morphology, nucleation type categorization, and melting behaviour of pure water and THF hydrates. The acoustic levitation technique has interesting potential applications for the research of multi-phase systems by eliminating the solid-liquid interface.
+Nucleation in the absence of a solid-liquid interface can be studied through the acoustic levitation of liquid droplets. I have investigated the nucleation of pure water[9] and tetrahydrofuran (THF) hydrates[10] through this approach. These works investigated and observed the crystallization, morphology, nucleation type categorization, and melting behaviour of pure water and THF hydrates. The acoustic levitation technique has interesting potential applications for the research of multi-phase systems by eliminating the solid-liquid interface.<br>
+<br>
+![AG-tinylev-graphical-abstract](../images/AG_tinylev_graphical_abstract.jpg "Journal of Colloid and Interface Science 619, 84-95")<br>
+<b>Figure 5.</b> Graphical abstract of the pure water ultrasound levitated nucleation studies conducted in: Journal of Colloid and Interface Science 619, 84-95.
+<br>
+<br>
+![AG-tinylev-diagram](../images/AG_tinylev_diagram.jpg "Journal of Colloid and Interface Science 619, 84-95")<br>
+<b>Figure 6.</b> Experimental setup used to conduct ultrasound levitation of water droplets for nucleation studies in: Journal of Colloid and Interface Science 619, 84-95.
 
 ## Future Research
 ### Biological Liquid Crystals
