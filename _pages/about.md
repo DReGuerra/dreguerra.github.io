@@ -36,7 +36,7 @@ I conducted rheology work to characterize the dynamic viscosity of methane and c
 <b>Figure 3.</b> Rheological phase diagram for methane hydrates (Chemical Engineering Science 252, 117282).
 
 #### Molecular Simulations
-I have developed molecular simulations to predict the dynamic viscosity of methane[7] and carbon dioxide[8] hydrates. These works evaluated the performance of the computational models developed by direct comparison to experimental data collected from our experimental rheology work described above. Hydrogen bond analyses were conducted to determine possible sources of the discrepancies demonstrated between computational prediction and the experimental data.<br>
+I have developed molecular simulations to predict the dynamic viscosity and diffusivity of water, and methane[7] and carbon dioxide[8] hydrate systems. These works evaluated the performance of the computational models developed by direct comparison to experimental data collected from our experimental rheology work described above. Hydrogen bond analyses were conducted to determine possible sources of the discrepancies demonstrated between computational prediction and the experimental data.<br>
 <br>
 ![AG-tinylev-graphical-abstract](../images/AG_molecules-27-05019-equilibration.png "Molecules 27 (15), 5019")<br>
 <b>Figure 4.</b> Equilibration of a water system simulated using LAMMPS (Molecules 27 (15), 5019).
