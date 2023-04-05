@@ -38,14 +38,14 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * University of Ottawa Admission Scholarship
 
 ## Research Experience
-* ETH Zurich - Laboratory of Food And Soft MAterials ([FSM](https://fsm.ethz.ch/))
-  * [NSERC MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp) and [Sigma Xi GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research) Visiting Researcher
+* ETH Zurich - Laboratory of Food And Soft Materials ([FSM](https://fsm.ethz.ch/))
+  * [NSERC MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp) and [Sigma Xi GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research) Visiting Researcher, April 2023
   * Advisor: Dr. Raffaele Mezzenga
-* Natural Resources Canada, CanmetENERGY-Ottawa - Gasification and Fluidized Bed Conversion Group
+* Natural Resources Canada, CanmetENERGY-Ottawa - Fluidized Bed Conversion & Gasification
   * [Research Affiliate Program](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/research-affiliate-program.html) Visiting Researcher, 2016-2018
   * Advisor: Dr. Robert Symonds
-* Natural Resources Canada, CanmetENERGY-Ottawa - Gasification and Fluidized Bed Conversion Group
-  * Research Assistant, 2014
+* Natural Resources Canada, CanmetENERGY-Ottawa - Fluidized Bed Conversion & Gasification
+  * Summer Research Assistant, 2014
   * Advisors: Dr. Poupak Mehrani and Dr. Dennis Lu
 * University of Ottawa - Chemical and Biological Engineering
   * [UROP](https://www.uottawa.ca/research-innovation/international-research-experiential-learning/undergraduate-research-opportunity-program) Summer Researcher, 2013
