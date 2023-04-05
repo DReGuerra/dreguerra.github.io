@@ -48,6 +48,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 ## Workshops
 I have developed workshops on various topics which are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/). Some are still incomplete and actively being developed.
 
+* [Scientific Julia](https://github.com/DReGuerra/scientific_julia) Exploring julia packages for data science and other numerical modeling applications
 * [Financial Engineering](https://github.com/DReGuerra/financial_engineering) workshop introducing key concepts to Financial Engineering like stochastic models for stock and options pricing
 * [Molecular Dynamics](https://github.com/DReGuerra/molecular_dynamics_workshop) workshop introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
 * [Java OOP](https://github.com/DReGuerra/java_workshop) workshop introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
