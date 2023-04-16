@@ -23,8 +23,8 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 
 ## Honours, Awards and Fellowships
 * NSERC Canada Graduate Scholarship Doctoral Award ([CGS-D](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp))
-* NSERC Canada Graduate Scholarship Michael Smith Foreign Study Supplement ([MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp))
-* Sigma Xi Grants-in-Aid-of-research ([GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research))
+* NSERC CGS-D Michael Smith Foreign Study Supplement ([MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp))
+* Sigma Xi Grants-in-Aid-of-Research ([GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research))
 * McGill Graduate Mobility Award ([GMA](https://www.mcgill.ca/gps/funding/travel/grad-mobility-award))
 * Elected [Full Member](https://drive.google.com/file/d/1MNGupPHflzhdt4U4Ac8uUm1YRg4P4h5B/view?usp=sharing) of Sigma Xi The Scientific Research Honor Society
 * McGill Graduate Research Enhancement Travel Award ([GREAT](https://www.mcgill.ca/gps/funding/fac-staff/awards/great))
@@ -38,7 +38,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * University of Ottawa Admission Scholarship
 
 ## Research Experience
-* ETH Zurich - Laboratory of Food And Soft Materials ([FSM](https://fsm.ethz.ch/))
+* ETH Zurich - Laboratory of Food and Soft Materials ([FSM](https://fsm.ethz.ch/))
   * [NSERC MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp) and [Sigma Xi GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research) Visiting Researcher, April 2023
   * Advisor: Dr. Raffaele Mezzenga
 * Natural Resources Canada, CanmetENERGY-Ottawa - Fluidized Bed Conversion & Gasification
@@ -62,9 +62,9 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 ## Workshops
 I have developed workshops on various topics which are available in my GitHub [GitHub/DReGuerra](https://github.com/DReGuerra/). Some are still incomplete and actively being developed.
 
-* [Scientific Julia](https://github.com/DReGuerra/scientific_julia) Exploring julia packages for data science and other numerical modeling applications
-* [Financial Engineering](https://github.com/DReGuerra/financial_engineering) workshop introducing key concepts to Financial Engineering like stochastic models for stock and options pricing
-* [Molecular Dynamics](https://github.com/DReGuerra/molecular_dynamics_workshop) workshop introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
-* [Java OOP](https://github.com/DReGuerra/java_workshop) workshop introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
-* [Scientific Python](https://github.com/DReGuerra/scientific_python_workshop) workshop with information introducing key concepts to Python programming language applications in scientific research
-* [Git Version Control](https://github.com/DReGuerra/git_workshop) workshop to serve as a ramp-up course to working knowledge of git version control concepts, methodologies, and applications
+* [Scientific Julia](https://github.com/DReGuerra/scientific_julia) exploring julia packages for data science and other numerical modeling applications
+* [Financial Engineering](https://github.com/DReGuerra/financial_engineering) introducing key concepts to Financial Engineering like stochastic models for stock and options pricing
+* [Molecular Dynamics](https://github.com/DReGuerra/molecular_dynamics_workshop) introducing a computational workflow that I have developed to execute PACKMOL, Moltemplate, and LAMMPS to conduct MD simulations
+* [Java OOP](https://github.com/DReGuerra/java_workshop) introducing key concepts to Java programming language and object-oriented programming (OOP) principles and methods
+* [Scientific Python](https://github.com/DReGuerra/scientific_python_workshop) introducing key concepts to Python programming language applications in scientific research
+* [Git Version Control](https://github.com/DReGuerra/git_workshop) workshop to serve as a ramp-up course to working knowledge of git version control concepts, methodologies, and applications in software development
