@@ -13,7 +13,7 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 
 ## Education
 * Doctorate in Chemical Engineering
-  * McGill University, 2023 (expected)
+  * McGill University, 2024 (expected)
 * Master in Applied Sciences in Chemical Engineering
   * University of Ottawa, 2018
 * Bachelor in Applied Sciences in Chemical Engineering
@@ -38,6 +38,9 @@ My detailed CV can be downloaded [here](http://academicpages.github.io/files/cv.
 * University of Ottawa Admission Scholarship
 
 ## Research Experience
+* Queen's University - [De France Lab](https://defrancelab.engineering.queensu.ca/)
+  * Visiting Researcher, August 2023 - March 2024
+  * Advisor: Dr. Kevin De France
 * ETH Zurich - Laboratory of Food and Soft Materials ([FSM](https://fsm.ethz.ch/))
   * [NSERC MSFSS](https://www.nserc-crsng.gc.ca/Students-Etudiants/Guides-Guides/CGSMSFSSRegs-BESCSEEMSRegs_eng.asp) and [Sigma Xi GIAR](https://www.sigmaxi.org/programs/grants-in-aid-of-research) Visiting Researcher, April 2023
   * Advisor: Dr. Raffaele Mezzenga
