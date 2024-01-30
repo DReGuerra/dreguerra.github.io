@@ -12,6 +12,10 @@ location: "Montreal, QC"
 <b>Primary instructor:</b> Prof. Dr. Alejandro D. Rey
 
 # Lecturing
+* Maximum Gradient Models (Lecture 4, January 17, 2024)
+* Multiple Gradient Models (Lecture 3, January 15, 2024)
+* Microscopic Models (Lecture 2, January 10, 2024)
+* Fundamental Tools to Modelling (Lecture 1, January 8, 2024)
 * Method of Characteristics (Lecture 10, March 7, 2023)
 * Method of Moments Polynomial Approximation (Lecture 8, February 6, 2023)
 * Discrete Modeling Methods and Examples (Lecture 14, March 31, 2022)
